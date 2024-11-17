@@ -1,4 +1,16 @@
 # YOLOv5 requirements
+streamlit
+torch
+ultralytics
+opencv-python-headless
+numpy
+pandas
+Pillow
+matplotlib
+requests
+scipy
+torchvision
+
 # Usage: pip install -r requirements.txt
 
 # Base ------------------------------------------------------------------------
