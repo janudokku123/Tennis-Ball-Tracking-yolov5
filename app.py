@@ -464,7 +464,7 @@ import pathlib
 from pathlib import Path
 import time
 
-pathlib.PosixPath = pathlib.WindowsPath
+# pathlib.PosixPath = pathlib.WindowsPath
 
 # Paths
 repo_path = '.'
